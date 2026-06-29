@@ -215,7 +215,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 597842319}
+<<<<<<< HEAD
   - {fileID: 609692283}
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -223,6 +226,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!1 &509696204
 GameObject:
   m_ObjectHideFlags: 0
@@ -271,6 +275,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
 --- !u!1 &565071963
 GameObject:
   m_ObjectHideFlags: 0
@@ -463,7 +469,11 @@ GameObject:
   - component: {fileID: 597842321}
   - component: {fileID: 597842320}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: ScoreText
+=======
+  m_Name: Text (TMP)
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -478,14 +488,22 @@ RectTransform:
   m_GameObject: {fileID: 597842318}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 103881340}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0, y: 40}
+=======
+  m_AnchoredPosition: {x: -10.000015, y: -37}
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &597842320
@@ -508,7 +526,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_text: 'Score: 0'
+=======
+  m_text: New Text
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 642ad70bb096249469311b9fb0f3db1e, type: 2}
   m_sharedMaterial: {fileID: -7452453369089079174, guid: 642ad70bb096249469311b9fb0f3db1e, type: 2}
@@ -588,6 +610,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 597842318}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &609692280
 GameObject:
   m_ObjectHideFlags: 0
@@ -725,6 +748,8 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 50}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
 --- !u!1 &645435813
 GameObject:
   m_ObjectHideFlags: 0
@@ -863,7 +888,10 @@ GameObject:
   - component: {fileID: 764093666}
   - component: {fileID: 764093665}
   - component: {fileID: 764093667}
+<<<<<<< HEAD
   - component: {fileID: 764093668}
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
   m_Layer: 0
   m_Name: background
   m_TagString: Untagged
@@ -959,6 +987,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   scrollSpeed: 2
   resetPositionY: 10
+<<<<<<< HEAD
 --- !u!114 &764093668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -973,6 +1002,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PigeonSpawner
   pigeonPrefab: {fileID: 0}
   spawnInterval: 3
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
 --- !u!1 &857240235
 GameObject:
   m_ObjectHideFlags: 0
@@ -1250,6 +1281,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1754094955
 GameObject:
   m_ObjectHideFlags: 0
@@ -1311,6 +1343,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
 --- !u!1 &2127417145
 GameObject:
   m_ObjectHideFlags: 0
@@ -1372,5 +1406,8 @@ SceneRoots:
   - {fileID: 2127417147}
   - {fileID: 103881340}
   - {fileID: 1518773923}
+<<<<<<< HEAD
   - {fileID: 509696206}
   - {fileID: 1754094958}
+=======
+>>>>>>> af82c2242aaf77d03e7cdea47da87e9ff6880e13
